@@ -1,2 +1,2 @@
 # starting_golang
-just started using go
+```just started using go```
